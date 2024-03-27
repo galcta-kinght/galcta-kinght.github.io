@@ -1,3 +1,10 @@
-h1{color: pink}
-h4{color: gold}
-h2{color:blue}
+h1{color: rgb(212, 0, 255);
+border: 5px dotted black;
+margin-top: 20px;
+margin-right: 1em;
+margin-bottom: 40px;
+margin-left: 2em;
+padding: 1em;}
+h5{color:gold}
+h3{color:blue}
+h2{color:pink}
