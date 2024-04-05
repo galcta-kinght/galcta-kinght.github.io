@@ -15,14 +15,20 @@
     padding: 0;
     display: flex;
     gap: 10px;
+    transition: 0.7
 }
 
 .animated-nav-menu a {
     text-decoration: none;
     border-radius: 10%;
     padding: 4px;
-    color: #00aaff;
-    background-color: white;
+    color: purple;
+    background-color: orangered;
+}
+
+.animated-nav-menu a:hover {
+background-color: purple;
+color:orangered
 }
 
 /* Task 3: Button Press Animation */
