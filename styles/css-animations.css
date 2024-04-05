@@ -3,7 +3,7 @@
     padding: 20px; 
 }
 .hover-highlight-card:hover {
-    background-color: rgb(199, 199, 199); 
+    background-color: rgb(255, 0, 0); 
 
     box-shadow: 50px 10px 10px rgb(123, 0, 255);
     transition: ease-in, 1s;
