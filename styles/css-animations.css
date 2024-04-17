@@ -1,9 +1,10 @@
 /* Task 1: Hover Highlight Card */
 .hover-highlight-card {
-    padding: 20px; 
+    padding: 20px;
 }
+
 .hover-highlight-card:hover {
-    background-color: rgb(255, 0, 0); 
+    background-color: rgb(255, 0, 0);
 
     box-shadow: 50px 10px 10px rgb(123, 0, 255);
     transition: ease-in, 1s;
@@ -27,8 +28,8 @@
 }
 
 .animated-nav-menu a:hover {
-background-color: purple;
-color:orangered
+    background-color: purple;
+    color: orangered
 }
 
 /* Task 3: Button Press Animation */
@@ -39,9 +40,10 @@ color:orangered
     color: yellow;
     cursor: pointer;
 }
-.button-press-animation button:active{
+
+.button-press-animation button:active {
     background-color: yellow;
-    color:black;
+    color: black;
     transform: scale(2);
 }
 
@@ -58,10 +60,15 @@ color:orangered
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
-@keyframes spinner{
-    from{ transform: rotate(0deg)
+
+@keyframes spinner {
+    from {
+        transform: rotate(0deg);
     }
-    to{ transform:rotate(360deg)}
+
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 
@@ -71,8 +78,18 @@ color:orangered
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
 .fading-gallery img {
     width: 100px;
     height: 100px;
     object-fit: cover;
+    opacity: 0.3;
+}
+
+.fading-gallery img:hover {
+
+    opacity: 1;
+    transform:translateY(30px);
+    transform: scale(1.2);
+    box-shadow: #00000024;
 }
