@@ -28,4 +28,4 @@ for(let i=1; i<=10; i++){
     console.log(factorial)
 }
 
-console.log("task 6")
+console.log("task 1 array")
