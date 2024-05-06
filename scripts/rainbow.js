@@ -1,2 +1,2 @@
-arr =["red", "orange", "yellow", "blue", "green", "purple", "teal" ]
+let arr =["red", "orange", "yellow", "blue", "green", "purple", "teal" ]
 ul 
