@@ -1,4 +1,4 @@
-let color = ["red", "orange", "yellow", "green", "blue", "indago", "violet"];
+arr = ["red", "orange", "yellow", "green", "blue", "indago", "violet"];
 list = document.createElement('ul');
 
 console.log("colors")
