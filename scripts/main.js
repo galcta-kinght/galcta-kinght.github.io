@@ -37,12 +37,10 @@ for (let i = 0; i < arr.length; i++) {
 
 console.log("task 7")
 
-for (let i = 0; i < arr.length; i++)
-console.log(arr.at(-1))
-console.log(arr.at(-2))
-console.log(arr.at(-3))
-console.log(arr.at(-4))
-console.log(arr.at(-5))
+for (let i = 0; i < arr.length; i++){
+  console.log(arr.at(-i-1))
+}
+
 
 console.log("Task 8")
 
