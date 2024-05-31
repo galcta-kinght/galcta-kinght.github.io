@@ -1,8 +1,10 @@
 .project-pic-links ul {
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-wrap: wrap;
+    margin-top: auto;
+    column-count:var()
 }
 
 .project-pic-links a {
