@@ -1,5 +1,15 @@
-.project-pic-links {
+.project-pic-links ul {
+    list-style: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+.project-pic-links a {
+    text-decoration: none;
+    padding: 4px;
+}
+
+.project-pic-links a:hover {
+
 }
