@@ -1,0 +1,19 @@
+.project-pic-links {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.project-pic-links img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    opacity: 0.3;
+}
+
+.project-pic-links img:hover {
+    opacity: 1;
+    transform:translateY(30px);
+    transform: scale(1.2);
+    box-shadow: #00000024;
+}
