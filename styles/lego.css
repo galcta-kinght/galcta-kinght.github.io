@@ -10,8 +10,10 @@
     padding: 4px;
 }
 
-.project-pic-links-prt1 a:hover {
-    box-shadow: ;
+.project-pic-links-prt1 img:hover {
+    box-shadow: 20px 10px 20px rgb(0, 0, 0);
+    transition: ease-in 0.8s;
+    transform: translateY(-20px);
 }
 
 .project-pic-links-prt2 ul {
@@ -26,6 +28,9 @@
     padding: 4px;
 }
 
-.project-pic-links-prt2 a:hover {
-    box-shadow: ;
+.project-pic-links-prt2 img:hover {
+    box-shadow: 20px 10px 20px rgb(0, 0, 0);
+    transition: ease-in 0.8s;
+    transform: translateY(-20px);
 }
+
