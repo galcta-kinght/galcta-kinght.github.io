@@ -1,17 +1,33 @@
-.project-pic-links ul {
+.project-pic-links-prt1 ul {
     list-style: none;
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
-    margin-top: auto;
-    column-count:var()
+    flex-wrap:nowrap;
+    margin: px;
 }
 
-.project-pic-links a {
+.project-pic-links-prt1 a {
     text-decoration: none;
     padding: 4px;
 }
 
-.project-pic-links a:hover {
+.project-pic-links-prt1 a:hover {
+    box-shadow: ;
+}
 
+.project-pic-links-prt2 ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:nowrap;
+    margin: px;
+}
+
+.project-pic-links-prt2 a {
+    text-decoration: none;
+    padding: 4px;
+}
+
+.project-pic-links-prt2 a:hover {
+    box-shadow: ;
 }
