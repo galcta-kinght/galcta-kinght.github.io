@@ -7,12 +7,11 @@
 
 .project-pic-links-prt1 a {
     text-decoration: none;
-    padding: 4px;
 }
 
 .project-pic-links-prt1 img:hover {
     box-shadow: 20px 10px 20px rgb(0, 0, 0);
-    transition: ease-in 0.8s;
+    transition: ease-in 0.7s;
     transform: translateY(-20px);
 }
 
@@ -25,12 +24,14 @@
 
 .project-pic-links-prt2 a {
     text-decoration: none;
-    padding: 4px;
 }
 
 .project-pic-links-prt2 img:hover {
     box-shadow: 20px 10px 20px rgb(0, 0, 0);
-    transition: ease-in 0.8s;
+    transition: ease-in 0.7s;
     transform: translateY(-20px);
 }
 
+h1{
+
+}
