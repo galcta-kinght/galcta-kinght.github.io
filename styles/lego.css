@@ -11,8 +11,8 @@
 
 .project-pic-links-prt1 img:hover {
     box-shadow: 20px 10px 20px rgb(0, 0, 0);
-    transition: ease-in 0.7s;
-    transform: translateY(-20px);
+    transition: ease-in 0.3s;
+    transform: translateY(-5px);
 }
 
 .project-pic-links-prt2 ul {
@@ -28,10 +28,10 @@
 
 .project-pic-links-prt2 img:hover {
     box-shadow: 20px 10px 20px rgb(0, 0, 0);
-    transition: ease-in 0.7s;
-    transform: translateY(-20px);
+    transition: ease-in 0.3s;
+    transform: translateY(-5px);
 }
 
-h1{
-
+header{
+    font-size: larger;
 }
