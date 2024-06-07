@@ -1,0 +1,20 @@
+.home-button ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+    transition: 0.7
+}
+
+.home-button a {
+    text-decoration: none;
+    border-radius: 10%;
+    padding: 4px;
+    color: purple;
+    background-color: orangered;
+}
+
+.home-button a:hover {
+    background-color: purple;
+    color: orangered
+}
