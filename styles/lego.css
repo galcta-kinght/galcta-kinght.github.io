@@ -1,4 +1,5 @@
 .project-pic-links-prt1 ul {
+    transform: translateX(-20px);
     list-style: none;
     display: flex;
     justify-content: space-around;
@@ -16,6 +17,7 @@
 }
 
 .project-pic-links-prt2 ul {
+    transform: translateX(-20px);
     list-style: none;
     display: flex;
     justify-content: space-around;
