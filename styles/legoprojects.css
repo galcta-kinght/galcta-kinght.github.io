@@ -1,15 +1,6 @@
 .p {
     text-wrap: wrap;
     text-align: center;
+    padding: 30px;
 }
 
-.image {
-    height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-  
-.this-image {
-    width: 10em;
-}
