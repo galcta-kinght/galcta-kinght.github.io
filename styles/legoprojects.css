@@ -1,9 +1,9 @@
 .p {
     text-wrap: wrap;
-    text-align: center;
-    padding: 30px;
 }
 
 .pic img{
-    justify-content: center;
+    margin: auto;
+    display: block;
+    width: 100px;
 }
