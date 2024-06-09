@@ -4,3 +4,6 @@
     padding: 30px;
 }
 
+.pic img{
+    justify-content: center;
+}
