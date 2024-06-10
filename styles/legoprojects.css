@@ -1,9 +1,10 @@
-.p {
-    text-wrap: wrap;
+.blurb {
+    margin-left: 600px;
+    margin-right: 600px;
 }
 
 .pic img{
     margin: auto;
     display: block;
-    width: 100px;
+    width: 700px;
 }
